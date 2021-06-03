@@ -11,7 +11,7 @@ Metode Euler merupakan metode paling sederhana yang diturunkan dari deret Taylor
 KELOMPOK 2 
 1. Frendy Marselino_26501191
 2. Safira Ashilah_26050119140116_Oseanografi B
-3. 
+3. Raka Aditya N_26050119140124_Oseanografi B
 4. 
 5. 
 6. 
